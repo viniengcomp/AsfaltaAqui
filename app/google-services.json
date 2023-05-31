@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689244602853",
+    "project_id": "asfaltaaqui",
+    "storage_bucket": "asfaltaaqui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689244602853:android:fd0b7a7c03d92a5705ef0c",
+        "android_client_info": {
+          "package_name": "com.example.asfaltaaqui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ukYH6IgsOHQv72rYauTWZK5xFQENbUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

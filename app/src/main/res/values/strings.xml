@@ -9,6 +9,6 @@
     <string name="msgError">User error</string>
     <string name="queries">confirm queries</string>
     <string name="inicio">Welcome,</string>
-    <string name="btcancelar">cancel</string>
+    <string name="btcancelar">Continuar</string>
     <string name="phone">+55 (81) 33000-3003</string>
 </resources>

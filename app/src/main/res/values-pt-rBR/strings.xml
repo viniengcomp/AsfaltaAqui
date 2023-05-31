@@ -9,6 +9,6 @@
     <string name="msgError">Usuário incorreto</string>
     <string name="queries" translatable="false">confirmar agendamento</string>
     <string name="inicio" translatable="false">Bem vindo,</string>
-    <string name="btcancelar">cancelar</string>
+    <string name="btcancelar">Continuar</string>
     <string name="phone">+55 (81) 33000-3003</string>
 </resources>

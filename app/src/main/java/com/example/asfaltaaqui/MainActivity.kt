@@ -6,7 +6,8 @@ import android.os.Bundle
 import android.widget.Toast
 import com.example.asfaltaaqui.R
 import com.example.asfaltaaqui.databinding.ActivityMainBinding
-
+import com.google.firebase.database.DatabaseReference
+import com.google.firebase.database.FirebaseDatabase
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding
@@ -20,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         btLogin.setOnClickListener {
             if(edNome.text.toString()=="Vinicius") {
-                val inten = Intent(this, Tela2Activity::class.java)
+                val inten = Intent(this, MainActivity2::class.java)
                 val texto = edNome.text.toString()
                 inten.putExtra("nome", texto)
                 startActivity(inten)

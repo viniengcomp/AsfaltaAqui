@@ -20,7 +20,7 @@ class MainActivity2 : AppCompatActivity() {
         val button = binding.button
 
         button.setOnClickListener {
-            val inten = Intent(this, Tela3Activity::class.java)
+            val inten = Intent(this, MainActivity3::class.java)
             startActivity(inten)
         }
     }
